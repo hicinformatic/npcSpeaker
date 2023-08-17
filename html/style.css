@@ -1,0 +1,21 @@
+body {
+
+}
+
+#npc_speaker {
+    background-color: black;
+    color: white;
+    width: 250px;
+}
+
+#npc_identity {
+    padding: 15px;
+    background-color: black;
+    color: white;
+}
+
+#npc_dialog {
+    padding: 5px;
+    background-color: white;
+    color: black;
+}
